@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Playa caribeña",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et possimus perferendis, dolorum eius cumque quaerat, repellat explicabo eum quae accusamus maiores tempore repellendus sapiente. Officiis rerum fugit neque exercitationem laudantium.",
+        "moreInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi facere obcaecati aliquam. Pariatur cumque quasi minus est iste quis fuga ratione qui velit reprehenderit inventore eum, expedita illum nemo quam!",
+        "image": "imagenes/playa.jpg",
+        "price": 245
+    },
+    {
+        "id": 2,
+        "name": "Playa caribeña",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et possimus perferendis, dolorum eius cumque quaerat, repellat explicabo eum quae accusamus maiores tempore repellendus sapiente. Officiis rerum fugit neque exercitationem laudantium.",
+        "moreInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi facere obcaecati aliquam. Pariatur cumque quasi minus est iste quis fuga ratione qui velit reprehenderit inventore eum, expedita illum nemo quam!",
+        "image": "",
+        "price": 245
+    },
+    {
+        "id": 3,
+        "name": "Playa caribeña",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et possimus perferendis, dolorum eius cumque quaerat, repellat explicabo eum quae accusamus maiores tempore repellendus sapiente. Officiis rerum fugit neque exercitationem laudantium.",
+        "moreInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi facere obcaecati aliquam. Pariatur cumque quasi minus est iste quis fuga ratione qui velit reprehenderit inventore eum, expedita illum nemo quam!",
+        "image": "",
+        "price": 245
+    },
+    {
+        "id": 4,
+        "name": "Playa caribeña",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et possimus perferendis, dolorum eius cumque quaerat, repellat explicabo eum quae accusamus maiores tempore repellendus sapiente. Officiis rerum fugit neque exercitationem laudantium.",
+        "moreInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi facere obcaecati aliquam. Pariatur cumque quasi minus est iste quis fuga ratione qui velit reprehenderit inventore eum, expedita illum nemo quam!",
+        "image": "",
+        "price": 245
+    },
+    {
+        "id": 5,
+        "name": "Playa caribeña",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et possimus perferendis, dolorum eius cumque quaerat, repellat explicabo eum quae accusamus maiores tempore repellendus sapiente. Officiis rerum fugit neque exercitationem laudantium.",
+        "moreInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi facere obcaecati aliquam. Pariatur cumque quasi minus est iste quis fuga ratione qui velit reprehenderit inventore eum, expedita illum nemo quam!",
+        "image": "",
+        "price": 245
+    }
+]
