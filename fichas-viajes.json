@@ -12,7 +12,7 @@
         "name": "Roma",
         "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et possimus perferendis, dolorum eius cumque quaerat, repellat explicabo eum quae accusamus maiores tempore repellendus sapiente. Officiis rerum fugit neque exercitationem laudantium.",
         "moreInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi facere obcaecati aliquam. Pariatur cumque quasi minus est iste quis fuga ratione qui velit reprehenderit inventore eum, expedita illum nemo quam!",
-        "image": "playa.jpg",
+        "image": "roma.jpg",
         "price": 185
     },
     {
@@ -20,7 +20,7 @@
         "name": "Lugares con encanto",
         "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et possimus perferendis, dolorum eius cumque quaerat, repellat explicabo eum quae accusamus maiores tempore repellendus sapiente. Officiis rerum fugit neque exercitationem laudantium.",
         "moreInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi facere obcaecati aliquam. Pariatur cumque quasi minus est iste quis fuga ratione qui velit reprehenderit inventore eum, expedita illum nemo quam!",
-        "image": "playa.jpg",
+        "image": "encanto.jpg",
         "price": 210
     },
     {
@@ -28,7 +28,7 @@
         "name": "Berlín",
         "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et possimus perferendis, dolorum eius cumque quaerat, repellat explicabo eum quae accusamus maiores tempore repellendus sapiente. Officiis rerum fugit neque exercitationem laudantium.",
         "moreInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi facere obcaecati aliquam. Pariatur cumque quasi minus est iste quis fuga ratione qui velit reprehenderit inventore eum, expedita illum nemo quam!",
-        "image": "playa.jpg",
+        "image": "berlin.jpg",
         "price": 450
     },
     {
@@ -36,7 +36,7 @@
         "name": "Europa del Este",
         "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et possimus perferendis, dolorum eius cumque quaerat, repellat explicabo eum quae accusamus maiores tempore repellendus sapiente. Officiis rerum fugit neque exercitationem laudantium.",
         "moreInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi facere obcaecati aliquam. Pariatur cumque quasi minus est iste quis fuga ratione qui velit reprehenderit inventore eum, expedita illum nemo quam!",
-        "image": "playa.jpg",
+        "image": "riga.jpg",
         "price": 631
     }
 ]
